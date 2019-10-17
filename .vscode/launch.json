@@ -11,8 +11,8 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=hello_remote_world",
-                    "--package=hello_remote_world",
+                    "--bin=rust-rtmp",
+                    "--package=rust-rtmp",
                     "--manifest-path=Cargo.toml"
                 ],
                 "filter": {

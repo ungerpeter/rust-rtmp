@@ -1,5 +1,5 @@
 [package]
-name = "vscode-rust-container"
+name = "rust-rtmp"
 version = "0.1.0"
 authors = ["Peter Unger <peps.unger@gmail.com>"]
 edition = "2018"
